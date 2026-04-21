@@ -34,6 +34,7 @@
 		]
 	},
 
+
 	
 	{
 		"titolo" : "NASA SAY",
@@ -44,10 +45,89 @@
 			"giorno" : 21,
 			"mese" : 4,
 			"anno" : 2026
+		}, 
+				"autore" : "Claudio Ceppi",
+			"tags" : [
+				"sounds"
+			]
+
 		},
-		"autore" : "Claudio Ceppi",
+
+	
+
+
+	
+	{
+		"titolo" : "Other Worlds",
+		"descrizione" : "Other Worlds è una visualizzazione dati interattiva di 11 esopianeti confermati, costruita a partire dai dati pubblici del NASA Exoplanet Archive.",
+		"immagine" : "otherworlds.jpg",
+		"url" : "https://djordjaa.github.io/Other_Worlds/",
+
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+			
+		},	
+		"autore" : "Djordja Krsteva",
 		"tags" : [
-			"sounds"
+			"exoplanets",
+			"NASA70",
+			"educational"
+		]
+	},
+		{
+		"titolo" : "MoonPrint",
+		"descrizione" : "Questo archivio interattivo esplora come i media globali raccontarono lo sbarco sulla Luna dell’Apollo 11 nel luglio 1969. Attraverso una visualizzazione dinamica, il sito mette a confronto le narrazioni giornalistiche di diversi paesi, evidenziando differenze di tono, linguaggio e prospettiva tra le pubblicazioni internazionali. Il progetto illumina il contesto geopolitico della Guerra Fredda, contrapponendo l’entusiasmo trionfale dei media occidentali a una copertura più sobria e tecnica nei paesi del blocco sovietico. È stato realizzato per celebrare il 70° anniversario della NASA.",
+		"immagine" : "moonprint.jpg",
+		"url" : "https://sofiaribeiromarques.github.io/NASA/progetto/index.html",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		},
+
+
+		"autore" : "Sofia Ribeiro Marques",
+		"tags" : [
+			"moon",
+			"comparison",
+			"newspaper"
+		]
+	},
+	{
+		"titolo" : "Eyes on earth",
+		"descrizione" : "Attraverso la navigazione tra cinque satelliti chiave, scoprirai come la conquista dello spazio sia diventata lo strumento fondamentale per comprendere i cambiamenti globali. Inizia il tuo viaggio per vedere la Terra come non l'hai mai vista prima.",
+		"immagine" : "carla.jpg",
+		"url" : "https://carladegennaro.github.io/interaction_design/progetto_1.2/",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		},
+		"autore" : "Carla De Gennaro",
+		"tags" : [
+			"climate change",
+			"satellites",
+			"earth"
+		]
+	},
+	{
+		"titolo" : "Lunar Archive Explorer",
+		"descrizione" : "Il Lunar Archive Explorer è una piattaforma digitale che permette di navigare e consultare i dati scientifici e le immagini ad alta risoluzione raccolti durante le missioni sulla Luna.",
+		"immagine" : "LAE.jpeg",
+		"url" : "https://dadiccs.github.io/nasa/",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		},
+		"autore" : "Daniele Falcone",
+		"tags" : [
+			"moon",
+			"apollo",
+			"missions"
+
 		]
 	}
 ]
