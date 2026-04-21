@@ -53,9 +53,10 @@
 			"educational"
 		]
 	},
-		{
+
+	{
 		"titolo" : "MoonPrint",
-		"descrizione" : "Il progetto non si limita a essere un semplice gioco. Una volta superate tutte le prove, l'esperienza culmina con un viaggio visivo verso la Luna e si trasforma in un vero e proprio archivio storico. I giocatori vengono ricompensati con un'interfaccia che permette di esplorare i video originali e i filmati di repertorio della NASA per ciascuna delle strutture affrontate (dall'esperimento originale di David Scott sulla Luna, fino alle riprese reali della Centrifuga e della piscina N.B.L.).",
+		"descrizione" : "Questo archivio interattivo esplora come i media globali raccontarono lo sbarco sulla Luna dell’Apollo 11 nel luglio 1969. Attraverso una visualizzazione dinamica, il sito mette a confronto le narrazioni giornalistiche di diversi paesi, evidenziando differenze di tono, linguaggio e prospettiva tra le pubblicazioni internazionali. Il progetto illumina il contesto geopolitico della Guerra Fredda, contrapponendo l’entusiasmo trionfale dei media occidentali a una copertura più sobria e tecnica nei paesi del blocco sovietico. È stato realizzato per celebrare il 70° anniversario della NASA.",
 		"immagine" : "moonprint.jpg",
 		"url" : "https://sofiaribeiromarques.github.io/NASA/progetto/index.html",
 		"data" : {
@@ -70,7 +71,6 @@
 			"newspaper"
 		]
 	},
-
 	{
 		"titolo" : "Eyes on earth",
 		"descrizione" : "Attraverso la navigazione tra cinque satelliti chiave, scoprirai come la conquista dello spazio sia diventata lo strumento fondamentale per comprendere i cambiamenti globali. Inizia il tuo viaggio per vedere la Terra come non l'hai mai vista prima.",
@@ -88,6 +88,23 @@
 			"earth"
 		]
 	},
+	{
+		"titolo" : "Lunar Archive Explorer",
+		"descrizione" : "Il Lunar Archive Explorer è una piattaforma digitale che permette di navigare e consultare i dati scientifici e le immagini ad alta risoluzione raccolti durante le missioni sulla Luna.",
+		"immagine" : "LAE.jpeg",
+		"url" : "https://dadiccs.github.io/nasa/",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+      },
+    "autore" : "Daniele Falcone",
+		"tags" : [
+			"moon",
+			"apollo",
+			"missions"
+		]
+	},	
 	{
 		"titolo" : "Nebula Vision",
 		"descrizione" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
