@@ -32,5 +32,22 @@
 			"gravity",
 			"game"
 		]
+	},
+	{
+		"titolo" : "hubble space telescope",
+		"descrizione" : "35 anni di fotografie di hubble space telescope, l'occhio piu potente che abbiamo nello spazio, che ci ha permesso di scoprire nuovi pianeti, galassie e buchi neri. Un archivio di immagini e video per far scoprire ai bambini la bellezza dello spazio e della scienza.",
+		"immagine" : "hubble.png",
+		"url" : "https://laura-pantani.github.io/NASA70/p1/",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		},
+		"autore" : "Laura Pantani",
+		"tags" : [
+			"kids",
+			"space",
+			"archive"
+		]
 	}
 ]
