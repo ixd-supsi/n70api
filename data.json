@@ -87,5 +87,25 @@
 			"satellites",
 			"earth"
 		]
+	},
+	{
+		"titolo" : "SolarScale",
+		"descrizione" : "Questo progetto esplora il Sistema Solare partendo da una criticità nella sua rappresentazione visiva, spesso poco accurata nel comunicare le reali proporzioni tra dimensioni dei pianeti e distanze nello spazio. Per superare questo limite, il sistema viene scomposto in elementi fondamentali come dimensioni, distanze e movimenti, permettendo una lettura più chiara e comprensibile. Il risultato è una visualizzazione interattiva che traduce dati scientifici in un’esperienza visiva immediata, rendendo percepibili proporzioni normalmente astratte e restituendo in modo efficace la reale struttura del Sistema Solare.",
+		"immagine" : "solarscale.jpg",
+		"url" : "https://lucamazzolaa.github.io/NASA70/",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		},
+		"autore" : "Luca Mazzola",
+		"tags" : [
+			"solar system",
+			"dimensions",
+			"positions",
+			"distances",
+			"positions",
+			"planets"
+		]
 	}
 ]
