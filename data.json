@@ -33,6 +33,29 @@
 			"game"
 		]
 	},
+
+
+	
+	{
+		"titolo" : "NASA SAY",
+		"descrizione" : "NASA.SAY è un archivio digitale interattivo che raccoglie e restituisce visivamente le dieci trasmissioni audio più iconiche della storia della NASA.",
+		"immagine" : "nasasay.jpg",
+		"url" : "https://claudio-ceppi.github.io/CV429.01-Interaction-Design/NASA.SAY/files/",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		}, 
+				"autore" : "Claudio Ceppi",
+			"tags" : [
+				"sounds"
+			]
+
+		},
+
+	
+
+
 	
 	{
 		"titolo" : "Other Worlds",
@@ -44,7 +67,7 @@
 			"giorno" : 21,
 			"mese" : 4,
 			"anno" : 2026
-
+			
 		},	
 		"autore" : "Djordja Krsteva",
 		"tags" : [
@@ -64,6 +87,8 @@
 			"mese" : 4,
 			"anno" : 2026
 		},
+
+
 		"autore" : "Sofia Ribeiro Marques",
 		"tags" : [
 			"moon",
@@ -103,6 +128,7 @@
 			"moon",
 			"apollo",
 			"missions"
+
 		]
 	},	
 	{
