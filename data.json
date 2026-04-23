@@ -17,6 +17,32 @@
 		]
 	},
 	{
+		"titolo" : "Perseverance Rover",
+		"descrizione" : "Pagina interattiva progettata per la divulgazione scientifica e l'esplorazione virtuale della missione Mars 2020 e il Rover Perseverance della NASA. Il progetto è un laboratorio digitale dove l'utente smette di essere uno spettatore passivo per diventare un operatore virtuale, scoprendo ogni dettaglio della missione.",
+		"immagine" : "Perseverance_rover.jpg",
+		"url" : "https://naheleee.github.io/NaheleBelli_IXD_2026/Progetto1_PerseveranceRover/index.html",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		},
+		"autore" : "Nahele Belli",
+		"tags" : [
+			"Rover",
+			"Perseverance",
+			"3D",
+			"Educational",
+			"Mars",
+			"Space",
+			"Exploration",
+			"Mission",
+			"Discovery",
+			"Robot",
+			"Aerospace",
+			"Planetary"
+		]
+	},
+	{
 		"titolo" : "NASA SAY",
 		"descrizione" : "NASA.SAY è un archivio digitale interattivo che raccoglie e restituisce visivamente le dieci trasmissioni audio più iconiche della storia della NASA.",
 		"immagine" : "nasasay.jpg",
