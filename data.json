@@ -1,6 +1,6 @@
 [
 	{
-		"titolo" : "Test gravity",
+		"titolo" : "Project Moonbound",
 		"descrizione" : "Il progetto non si limita a essere un semplice gioco. Una volta superate tutte le prove, l'esperienza culmina con un viaggio visivo verso la Luna e si trasforma in un vero e proprio archivio storico. I giocatori vengono ricompensati con un'interfaccia che permette di esplorare i video originali e i filmati di repertorio della NASA per ciascuna delle strutture affrontate (dall'esperimento originale di David Scott sulla Luna, fino alle riprese reali della Centrifuga e della piscina N.B.L.).",
 		"immagine" : "thumbnail.jpg",
 		"url" : "https://riccardovosti.github.io/TESTGRAVITY/",
@@ -13,6 +13,8 @@
 		"tags" : [
 			"kids",
 			"gravity",
+			"educational",
+			"2D",
 			"game"
 		]
 	},
@@ -28,18 +30,18 @@
 		},
 		"autore" : "Nahele Belli",
 		"tags" : [
-			"Rover",
-			"Perseverance",
+			"rover",
+			"perseverance",
 			"3D",
-			"Educational",
-			"Mars",
-			"Space",
-			"Exploration",
-			"Mission",
-			"Discovery",
-			"Robot",
-			"Aerospace",
-			"Planetary"
+			"educational",
+			"mars",
+			"space",
+			"exploration",
+			"mission",
+			"discovery",
+			"robot",
+			"aerospace",
+			"planetary"
 		]
 	},
 	{
@@ -164,7 +166,7 @@
 		]
 	},
 	{
-		"titolo" : "hubble space telescope",
+		"titolo" : "Hubble space telescope",
 		"descrizione" : "Il mio progetto intende rendere omaggio al satellite Hubble. Dal 1985 fino a oggi, grazie al suo contributo, abbiamo ottenuto le prime immagini dettagliate dello spazio, fondamentali per lo studio e la comprensione dell’universo.",
 
 		"immagine" : "hubble.png",
@@ -176,9 +178,9 @@
 		},
 		"autore" : "Laura Pantani",
 		"tags" : [
-			"satelliti",
-			"immagini",
-			"spazio"
+			"satellites",
+			"images",
+			"space"
 			
 		]
 	}
