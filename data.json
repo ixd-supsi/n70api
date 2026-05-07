@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"titolo": "Project Moonbound",
 		"descrizione": "The project isn't just a game. Once all the challenges are completed, the experience culminates with a visual journey to the Moon and becomes a veritable historical archive. Players are rewarded with an interface that allows them to explore original videos and NASA archive footage for each of the facilities they encounter (from David Scott's original experiment on the Moon to actual footage of the Centrifuge and the N.B.L. pool).",
 		"immagine": [
@@ -49,13 +50,13 @@
 		]
 	},
 	{
-		"titolo": "NASA SAY",
-		"descrizione": "NASA.SAY is an interactive digital archive that collects and visually presents the ten most iconic audio transmissions in NASA history.",
+		"titolo": "Radiowawe NASA",
+		"descrizione": "Radiowawe NASA is an interactive digital archive that collects and visually presents the ten most iconic audio transmissions in NASA history.",
 		"immagine": [
-			"..._1.jpg",
-			"..._2.jpg"
+			"Radiowawe_NASA_1.jpg",
+			"Radiowawe_NASA_2.jpg"
 		],
-		"url": "https://claudio-ceppi.github.io/CV429.01-Interaction-Design/NASA.SAY/files/",
+		"url": "https://claudio-ceppi.github.io/CV429.01-Interaction-Design/Radiowave_NASA/files/",
 		"data": {
 			"giorno": 21,
 			"mese": 4,
@@ -63,7 +64,11 @@
 		},
 		"autore": "Claudio Ceppi",
 		"tags": [
-			"..."
+			"audio",
+			"huston",
+			"sounds",
+			"apollo",
+			"archive"
 		]
 	},
 	{
@@ -78,7 +83,6 @@
 			"giorno": 21,
 			"mese": 4,
 			"anno": 2026
-
 		},
 		"autore": "Djordja Krsteva",
 		"tags": [
@@ -223,7 +227,8 @@
 			"space",
 			"astronomy"
 		]
-	}, {
+	},
+	{
 		"titolo": "Titolo progetto",
 		"descrizione": "Descrizione progetto",
 		"immagine": [
@@ -252,24 +257,6 @@
 		]
 	},
 	{
-		"titolo": "Spacesuit evolution",
-		"descrizione": "Spacesuit Evolution è un progetto che racconta l’evoluzione delle tute spaziali della NASA dagli anni ’60 fino al 2011, attraversando i principali programmi dell’esplorazione umana: Mercury, Gemini, Apollo e Space Shuttle.",
-		"immagine": [
-			"..._1.jpg",
-			"..._2.jpg"
-		],
-		"url": "https://davidebarattini.github.io/media/spacesuit-evolution/index.html",
-		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
-		},
-		"autore": "Davide Barattini",
-		"tags": [
-			"spacesuit"
-		]
-	},
-	{
 		"titolo": "Beyond The Myth",
 		"descrizione": "Beyond The Myth is a relational digital ecosystem that maps the evolution of astronomical knowledge, documenting the fundamental transition from mythological narrative to measurable scientific proof. The core of the project is a timeline of paradigms that weaves together chronology, narrative insights, and iconographic materials, serving as the backbone for a system of hyperlinks between historical figures and scientific instruments. Through the use of interactive tags, users can navigate transversally between scientists' biographies and the evolution of instrumentation, observing how tools transformed from rudimentary analog objects into complex digital technologies. This exploratory journey finds its final validation in the Observatory section, an area dedicated exclusively to real-time numerical data where dynamic calculations—such as the distance traveled by light during the browsing session or the exact time elapsed since the launch of Sputnik—transform historical suggestion into a tangible and objective scientific reality.",
 		"immagine": [
@@ -293,39 +280,18 @@
 		]
 	},
 	{
-		"titolo" : "hubble space telescope",
-		"descrizione" : "Il mio progetto intende rendere omaggio al satellite Hubble. Dal 1985 fino a oggi, grazie al suo contributo, abbiamo ottenuto le prime immagini dettagliate dello spazio, fondamentali per lo studio e la comprensione dell’universo.",
-
-		"immagine" : "hubble.png",
-		"url" : "https://laura-pantani.github.io/NASA70/p1/",
-		"data" : {
-			"giorno" : 21,
-			"mese" : 4,
-			"anno" : 2026
+		"titolo": "Spacesuit evolution",
+		"descrizione": "Spacesuit Evolution è un progetto che racconta l’evoluzione delle tute spaziali della NASA dagli anni ’60 fino al 2011, attraversando i principali programmi dell’esplorazione umana: Mercury, Gemini, Apollo e Space Shuttle.",
+		"immagine": "Perseverance_rover.jpg",
+		"url": "https://davidebarattini.github.io/media/spacesuit-evolution/index.html",
+		"data": {
+			"giorno": 21,
+			"mese": 4,
+			"anno": 2026
 		},
-		"autore" : "Laura Pantani",
-		"tags" : [
-			"satelliti",
-			"immagini",
-			"spazio"
-			
-		]
-	},
-	{
-		"titolo" : "Spacesuit evolution",
-		"descrizione" : "Spacesuit Evolution è un progetto che racconta l’evoluzione delle tute spaziali della NASA dagli anni ’60 fino al 2011, attraversando i principali programmi dell’esplorazione umana: Mercury, Gemini, Apollo e Space Shuttle.",
-		"immagine" : "Perseverance_rover.jpg",
-		"url" : "https://davidebarattini.github.io/media/spacesuit-evolution/index.html",
-		"data" : {
-			"giorno" : 21,
-			"mese" : 4,
-			"anno" : 2026
-		},
-		"autore" : "Davide Barattini",
-		"tags" : [
+		"autore": "Davide Barattini",
+		"tags": [
 			"Spacesuit"
-			
 		]
 	}
-
 ]
